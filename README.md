@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/Amenity%20Locator.mp4
 ## Features
 
 - **AI-Powered Verification** — Upload a photo, and the Hugging Face image classification API confirms the amenity type
-- **12 Amenity Types** — Rubbish bins, dog waste stations, benches,  postboxes, drinking fountains, bicycle racks, ATMs and EV charging stations.
+- **8 Amenity Types** — Rubbish bins, dog waste stations, benches,  postboxes, drinking fountains, bicycle racks, ATMs and EV charging stations.
 - **Image Upload & URL** — Drag-and-drop, file picker, or paste an image URL
 - **Geolocation** — Captures GPS coordinates for mapping verified amenities
 - **Gamification** — Points system, leaderboard, and achievement popups to encourage contributions
