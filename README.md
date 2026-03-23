@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/Amenity%20Locator.mp4
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/amenity-locator.git
+git clone https://github.com/JoshWilliams92/amenity-locator.git
 cd amenity-locator
 ```
 
