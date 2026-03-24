@@ -4,7 +4,7 @@ A community-driven web app for identifying and mapping public amenities using AI
 
 ## Demo
 
-https://github.com/user-attachments/assets/Amenity%20Locator.mp4
+[Watch the demo here](https://github.com/JoshWilliams92/Amenity_Locator/releases/download/v1.0.0/Amenity.Locator.mp4)
 
 ## Features
 
